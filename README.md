@@ -41,3 +41,6 @@ pip install pandas scikit-learn numpy
 
 
 Se você gostou das minhas postagens e gostaria de contribuir com uma pequena doação, eu agradeceria! Tenha uma ótima semana. Siga meu link para os valores em dólares no PAYPAL: https://www.paypal.com/donate/?hosted_button_id=FW4VNKJWXLTCJ
+
+
+Se você gostou das minhas postagens e gostaria de contribuir com uma pequena doação, eu agradeceria! Tenha uma ótima semana. Siga meu link para os valores em dólares no PAYPAL: https://www.paypal.com/donate/?hosted_button_id=FW4VNKJWXLTCJ
