@@ -29,7 +29,7 @@ Instale as dependências necessárias:
 
 ```bash
 pip install pandas scikit-learn numpy
-
+--
 
 
 ## 🔗 Links
